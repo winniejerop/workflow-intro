@@ -54,7 +54,7 @@ Quick Git walkthrough:
   git push origin 1-hr-sum-array
   ```
 
-**Making A pull request*:*
+**Making A pull request:**
 <img width="1072" alt="screen shot 2017-02-10 at 10 25 15 am" src="https://cloud.githubusercontent.com/assets/261265/22818037/fdc35612-ef7b-11e6-9c3b-4d19287af4ae.png">
 
 **Reviewing Code:**
