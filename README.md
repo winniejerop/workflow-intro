@@ -55,8 +55,13 @@ Quick Git walkthrough:
   ```
 
 **Making A pull request:**
+
+**NOTE:** Make sure you choose your `master` branch as the _base_, and not the original repo's master branch.
+
 <img width="1072" alt="screen shot 2017-02-10 at 10 25 15 am" src="https://cloud.githubusercontent.com/assets/261265/22818037/fdc35612-ef7b-11e6-9c3b-4d19287af4ae.png">
 
 **Reviewing Code:**
+Your mentor will review your code and give you feedback on what to improve on. If all looks good, they will merge your PR once your submission _meets expectations_.
+
 <img width="1063" alt="screen shot 2017-02-10 at 10 26 10 am" src="https://cloud.githubusercontent.com/assets/261265/22817993/b241c660-ef7b-11e6-8ca4-4fe405c95b4d.png">
 
